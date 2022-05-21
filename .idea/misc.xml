@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.3" />
+        <entry key="app/src/main/res/drawable/bg_round_gray.xml" value="0.278" />
+        <entry key="app/src/main/res/drawable/bg_rounded.xml" value="0.278" />
+        <entry key="app/src/main/res/drawable/bg_rounded_white_medium.xml" value="0.1775" />
+        <entry key="app/src/main/res/layout/activity_franquicia.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/activity_item.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.18795289855072464" />
+        <entry key="app/src/main/res/layout/activity_store.xml" value="0.18795289855072464" />
+        <entry key="app/src/main/res/layout/category_activity.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/dialog_itemdetails.xml" value="0.16875" />
+        <entry key="app/src/main/res/layout/item_activity.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/raw_item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/raw_menu.xml" value="0.18795289855072464" />
+        <entry key="app/src/main/res/layout/raw_store.xml" value="0.18795289855072464" />
+        <entry key="app/src/main/res/layout/row_menu.xml" value="0.18795289855072464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
